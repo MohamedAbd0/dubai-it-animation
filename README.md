@@ -4,6 +4,14 @@ A native Flutter Web animation explaining Dubai-It / دبي الأفعال using
 and English text, Dubai Font styling, dark navy visuals, and gold motion
 accents.
 
+![Cover](cover.png)
+
+## Demo
+
+<video src="demo.mov" controls width="100%"></video>
+
+> If the video doesn't render, open `demo.mov` from the repository root.
+
 ## Features
 
 - Native Flutter animation
