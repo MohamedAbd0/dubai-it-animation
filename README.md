@@ -6,6 +6,8 @@ accents.
 
 ![Cover](cover.png)
 
+**Live Demo:** [https://mohamedabd0.github.io/dubai-it-animation/](https://mohamedabd0.github.io/dubai-it-animation/)
+
 ## Demo
 
 <video src="demo.mov" controls width="100%"></video>
