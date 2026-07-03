@@ -10,9 +10,9 @@ accents.
 
 ## Demo
 
-<video src="demo.mov" controls width="100%"></video>
+[▶ Download / Watch demo.mov](https://github.com/MohamedAbd0/dubai-it-animation/raw/main/demo.mov)
 
-> If the video doesn't render, open `demo.mov` from the repository root.
+> **To get inline video playback on GitHub:** open the README on GitHub.com, click the edit (pencil) icon, then drag-and-drop `demo.mov` into the editor. GitHub will upload it and generate an embeddable `https://github.com/user-attachments/assets/...` URL — replace this section with that URL.
 
 ## Features
 
